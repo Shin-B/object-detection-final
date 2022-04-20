@@ -1,0 +1,32 @@
+#body{
+    background-image: linear-gradient(to left bottom, #ffbc00, #ff9824, #ff7144, #ff4962, #ff2681, #f82e9d, #ea3eb9, #d550d3, #b869e6, #987cf1, #778bf6, #5896f4);
+    color: black;
+}
+a{
+    font-size: 25px !important;
+    width:400px;
+    background-color: white;
+    color: black;
+    border-radius: 30px !important;
+    box-shadow: 2px 2px 20px cadetblue;
+}
+.bg{
+    background-size: cover;
+    background-position: center;
+}
+canvas
+{
+    box-shadow: 10px 20px 50px #e4b7e4;
+    border-radius: 10px;
+}
+#status
+{
+font-size: 18px;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: cursive;
+}
